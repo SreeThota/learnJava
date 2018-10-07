@@ -11,7 +11,7 @@ public class BasicArraysPractice {
 		i[2] = 300;
 //		i[3] = 400;
 		System.out.println(i);
-
+		System.out.println(i[1]);
 	}
 
 }

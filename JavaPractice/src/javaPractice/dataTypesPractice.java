@@ -1,4 +1,4 @@
-package javaPractice.languageFundementals;
+package javaPractice;
 
 public class dataTypesPractice {
 
