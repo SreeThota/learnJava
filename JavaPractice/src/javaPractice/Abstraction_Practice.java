@@ -21,7 +21,7 @@ public class Abstraction_Practice extends ParentAbstractClass {
 	}
 	
 	void run() {
-		System.out.println("We are running in child classs");
+		System.out.println("We are running in child classs ================");
 	}
 
 	public static void main(String[] args) {
